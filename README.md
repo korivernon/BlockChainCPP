@@ -4,5 +4,5 @@ I've always been fascinated in BlockChain Technology and have always wondered ho
 
 ## Improvements?
 There are several improvements that I would like to make to this project: 
-- First, adding a graphical user interface
-- Having it become a distributed ledger
+- Adding a graphical user interface
+- Making the Blockchain into a distributed Ledger
